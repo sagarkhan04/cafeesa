@@ -1,3 +1,4 @@
 == problem 
 
 * Navber Change korte hobe 
+* image path bosano baki  ache
